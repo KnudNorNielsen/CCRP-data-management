@@ -8,8 +8,8 @@ For details on CCRP plese visit:
 
 
 
-Check out the :doc:`ERDA data structure` section for further information, including
-how to :doc:`Data transfer` the project.
+Check out the :doc:`data_structure` section for further information, including
+how to :doc:`data_transfer` the project.
 
 .. note::
 
@@ -21,7 +21,6 @@ Contents
 .. toctree::
 
    data_structure
-   ERDA data structure
-   Data transfer
+   data_transfer
    usage
    author

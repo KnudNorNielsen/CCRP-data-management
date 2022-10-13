@@ -1,18 +1,6 @@
 Data structure
 ===================
 
-
-something something ...
-
-.. code-block:: console
-
-   bla bla...
-
-
-Authors: 	Knud Nor Nielsen knud.nor.nielsen@cpr.ku.dk 
-Last updated: 	2022.10.07
-Please drop me an email with comment edits to this document
-
 Content:
 1.	Storage
 a.	The structural backbone
