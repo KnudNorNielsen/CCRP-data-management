@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+CCRP data management
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Here you can find details on how to find your way around the CCRP data structure on ERDA, and how to transfer data back and forth between ERDA, Computerome and computers.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+For details on CCRP plese visit:
+https://ccrp.vcl.ncsu.edu/
