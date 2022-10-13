@@ -24,3 +24,4 @@ Contents
    ERDA data structure
    Data transfer
    usage
+   author

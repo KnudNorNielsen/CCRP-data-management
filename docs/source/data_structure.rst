@@ -6,9 +6,8 @@ something something ...
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   bla bla...
 
-ERDA DATA structure and management
 
 Authors: 	Knud Nor Nielsen knud.nor.nielsen@cpr.ku.dk 
 Last updated: 	2022.10.07

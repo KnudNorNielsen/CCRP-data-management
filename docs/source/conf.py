@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'CCRP data'
+project = 'CCRP data management'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
