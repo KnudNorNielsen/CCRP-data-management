@@ -20,6 +20,7 @@ Contents
 
 .. toctree::
 
+   data_structure
    ERDA data structure
    Data transfer
    usage
