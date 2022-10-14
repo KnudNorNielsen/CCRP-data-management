@@ -20,7 +20,6 @@ highlighter: rouge
 gist:
   noscript: false
 markdown: kramdown
-remote_theme: benbalter/retlab
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
