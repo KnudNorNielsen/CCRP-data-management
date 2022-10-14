@@ -14,6 +14,6 @@ This project is under active development.
 
 ### Content
    1. aa
-   2. bb
-   3. /about/
+   2. [ABOUT]({% about.md $})
+   3. {% about.md $}
 
