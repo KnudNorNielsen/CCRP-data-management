@@ -102,11 +102,7 @@ Readme file for the Processed data should be continuations of the earlier “raw
  
 ## Governance - Read-only access to data
 Raw data and processed data, along with the readme files should be “read only” ensuring data integrity, when different people start using the data for analyses.
-The read-only security is enforced by the ERDA workgroup owners who have access to the workgroup administration. Write access is either given to all members or to none as shown below:
-1.
- 
-2.
- 
+The read-only security is enforced by the ERDA workgroup owners who have access to the workgroup administration. Write access is either given to all members or to none.
 Currently, it is not possible to have writing access only for owners. This implies that if a workgroup should be write-protected after the upload of data an owner of the group should go to the workgroup administration page and clik on “none” under write access.
 
 
