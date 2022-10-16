@@ -15,7 +15,7 @@ lsi: false
 safe: true
 source: [docs/]
 incremental: false
-highlighter: rouge
+highlighter: blue
 gist:
   noscript: false
 markdown: kramdown
