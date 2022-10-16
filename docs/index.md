@@ -16,14 +16,10 @@ To facilitate data sharing within and between the three sister project of CCRP w
 In short, data should be managed between the platforms ERDA, Github and Biolomics. All generated raw data, processed data and results should be stored at ERDA. Scripts used for processing the raw data and generating results should be stored at Github. Metadata, and other data where the format allows it, should be stored in the Biolomics platform. All associated data should be tracable between repositories, meaning that metadata in Biolomics should point to the ERDA and Github and vice versa.
 
 
-
-
-
-<img src="FAIR_data_principles-1024x323.jpg" width="200" height="200" />
-
-
-
 *This project is under active development*
 
 
 
+
+
+<img src="FAIR_data_principles-1024x323.jpg" width="250" height="200" />
