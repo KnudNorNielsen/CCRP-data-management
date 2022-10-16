@@ -192,7 +192,7 @@ tar -czvf archive.tar.gz stuff
 ```
 
 
-# decompress .gz file (compressed .gz file will be removed after decompression)  http://www.metagenomics.wiki/tools/ubuntu-linux/gzip-tar-gz
+## Decompress 
 ```
 gzip -d sample.fastq.gz sample.fastq
 or 
@@ -202,6 +202,7 @@ pigz -p 20 -d sample.fastq.gz sample.fastq
 tar -xzvf archive.tar.gz
 ```
 
+See: http://www.metagenomics.wiki/tools/ubuntu-linux/gzip-tar-gz
 
 ## Free computation!
 Notice that ERDA provides free computation for smaller jobs!
