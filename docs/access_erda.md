@@ -15,9 +15,9 @@ To get access to ERDA you initially need to register on the ERDA hompage:
 > 	3.	Click 'sign up' under "Sign up to ERDA without a KU / UCPH account?"
 > 	4. 	Fill out and submit the form.
 > 	5.	Contact one of the below listed CCRP workgroup owners, and let the person know which
->       directories you wish to have access to.        
+>           directories you wish to have access to.        
 
-
+<p>&nbsp;</p>
 
 
 ### MATRIX
