@@ -1,14 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: BioloMICS
+permalink: /biolomics/
 ---
-# About
+# BioloMICS
+BioloMICS is a software platform that is specifically designed for the management, analysis, and publication of biological data. It is a comprehensive tool that provides a wide range of functionality for working with biological data, including data storage, visualization, analysis, and integration with other databases and resources. BioloMICS is intended to be a one-stop solution for biological data management, offering a range of features and tools for researchers working in the life sciences.
 
-This CCRP note repository was created October 2022, and last updated 2022.12.16
-
-Authors: 	
-    Knud Nor Nielsen 
-    knud.nor.nielsen@cpr.ku.dk 
-
-Please drop me an email with comments to these documents
+More to come...
