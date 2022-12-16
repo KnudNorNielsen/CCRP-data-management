@@ -10,7 +10,7 @@ ERDA is a data archive set up by the University of Copenhagen (UCPH). All studen
 
 ### Non-UCPH collaborators
 To get access to ERDA you initially need to register on the ERDA hompage: 
-> 	1.	 Go to: [http://erda.ku.dk/](https://erda.ku.dk/)
+> 	1.	 Go to: http://erda.ku.dk/
 > 	2.	click on the tab 'External Users'
 > 	3.	Click 'sign up' under "Sign up to ERDA without a KU / UCPH account?"
 > 	4. 	Fill out and submit the form.
@@ -20,7 +20,7 @@ To get access to ERDA you initially need to register on the ERDA hompage:
 
 
 
-#### MATRIX
+### MATRIX
 Knud Nor Nielsen:       
 University of Copenhagen            
 knud.nor.nielsen@cpr.ku.dk
@@ -29,7 +29,7 @@ Jesper Cairo Westergaard
 University of Copenhagen            
 jcw@plen.ku.dk
 
-#### INTERACT
+### INTERACT
 Frederik Bak            
 University of Copenhagen            
 f.bak@plen.ku.dk
@@ -38,7 +38,7 @@ Thanassis Zervas
 University of Aarhus                
 az@envs.au.dk
 
-#### INROOT
+### INROOT
 Turgut Yigit Akyol      
 University of Aarhus                
 tya@mbg.au.dk
