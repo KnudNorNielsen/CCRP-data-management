@@ -95,8 +95,9 @@ Integration between ENA and Metabolights (https://www.ebi.ac.uk/metabolights/ind
 
 
 ## Readme files
-Each data set, i.e. 16S amplicon sequencing for 2021 Taastrup, should be accompanied with a readme file placed in the same folder as the data set. This readme file should specify all relevant data regarding the file including who it was that generated the data and who and when it was uploaded to ERDA. 
-Readme file for the Processed data should be continuations of the earlier “raw data readme file”, and we suggest that you copy the “raw data readme file” to the ProcessedData folder and add have the the raw data has been process. If possible, include scripts that were used processing the data.
+It is important to accompany each data set with a readme file that provides all relevant information about the data, including pointers to Biolomics and Github, details on who generated it, when it was uploaded to ERDA. The readme file for processed data should be a continuation of the readme file for the raw data, and should include information on how the raw data was processed.
+
+For example, if you are working with 16S amplicon sequencing data from 2021 Taastrup, you should create a readme file that provides details on the data and store it in the same folder as the data set. If you have processed this data in any way, you should include a readme file in the ProcessedData folder that is a continuation of the rawdata readme file and which explains the processing steps. It should clearly provide the path to the underlying raw data, as well as the links to used scripts (Github) and metadata (Biolomics). This will help other users to understand the data and how it was generated, and ensure that it is easy to trace the data back to its original source.
 
  
 ## Governance - Read-only access to data
