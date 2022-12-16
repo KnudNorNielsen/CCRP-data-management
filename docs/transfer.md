@@ -12,7 +12,12 @@ This page is about how to navigate and move data between your computer or an HPC
 7.	Free computation!
 
 ## Introduction
-SCP (Secure Copy Protocol) and SFTP (Secure/SSH File Transfer Protocol) are alternatives for FTP (File Transfer Protocol), which is useful for local, non-scheduled file transfers. All three can help moving files from one location to another over Ethernet. However, FTP sends data in plain text, while the other two use the Secure Shell (SSH) protocol for communication.
+File Transfer Protocol (FTP) is a commonly used protocol for transferring files between computers. However, there are several advantages to using Secure Copy Protocol (SCP) and Secure/SSH File Transfer Protocol (SFTP) over FTP:
+
+**Data integrity:** Both SCP and SFTP use the SSH protocol to ensure the integrity of the data being transferred. This means that the data is checked for errors and corruption during transfer, and any errors are automatically corrected. FTP does not provide this level of data integrity.
+**File permissions:** Both SCP and SFTP support file permissions, allowing you to control which users can read, write, or execute transferred files. FTP does not support file permissions, meaning that all users have the same level of access to the transferred files.
+**Portability:** The SSH protocol used by SCP and SFTP is available on a wide range of platforms, including Linux, Unix, and macOS, as well as Windows with the use of third-party tools. This makes it easier to transfer files between different types of systems. FTP is not as widely available, and may require additional software to be installed on certain platforms.
+**Security:** Both SCP and SFTP use the Secure Shell (SSH) protocol for communication, which encrypts data being transferred to protect it from being intercepted or modified. FTP, on the other hand, sends data in plain text, which can be vulnerable to security threats such as eavesdropping and tampering.
  
 ## Resources
 [ucph-erda-user-guide.pdf](https://erda.ku.dk/public/ucph-erda-user-guide.pdf)
@@ -28,10 +33,9 @@ Here you enter the PASSWORD you would like to use and press save - and you are r
 From the command line, either on your personal computer or from a HPC as Computerome you connect to ERDA as follows:
 ```
 sftp [username]@io.erda.dk
-
-For me it will look like this:  
-sftp knn@ign.ku.dk@io.erda.dk
 ```
+[username] is most likely your full email (including @) 
+
 After you have pressed enter, you will get promted for the password you entered in the lower part of the ERDA-SFTP webpage.
 Now you have jumped into the root of the ERDA directory!
 
