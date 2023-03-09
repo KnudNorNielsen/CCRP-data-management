@@ -40,10 +40,6 @@ University of Copenhagen
 jcw@plen.ku.dk
 
 ### INTERACT
-Frederik Bak            
-University of Copenhagen            
-f.bak@plen.ku.dk
-
 Thanassis Zervas        
 University of Aarhus                
 az@envs.au.dk

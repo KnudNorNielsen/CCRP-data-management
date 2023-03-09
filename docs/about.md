@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # About
 
-This CCRP note repository was created October 2022, and last updated 2022.12.16
+This CCRP note repository was created October 2022, and last updated 2023.03.09
 
 Authors: 	
     Knud Nor Nielsen 
