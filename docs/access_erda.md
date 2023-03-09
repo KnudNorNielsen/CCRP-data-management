@@ -9,23 +9,24 @@ permalink: /access/
 ERDA is a data archive set up by the University of Copenhagen (UCPH). All students and employees at UCPH can log in to ERDA and request access to any workgroup. Once you have done this, please contact one of the responsible persons to ensure that your request is not overlooked for too long.
 
 ### Non-UCPH collaborators
-To get access to one of the CCRP domains on ERDA you first need clearence from one of the workgroup owners listed below. As part of the 'sign up' procedure the workgroup owner will vouch for the candidate by informing the central command (i.e. Knud Nor Nielsen), which workgroup the owner intend to grant the candidate access to and for how long a time periode. The central command will then accept the request sendt through the ERDA 'sign up procedure' (see below), and the candidate will automaticly be informed when this is done. The final two steps are that the candidate needs to sign in to ERDA, in order to activate the account, and the workgroup owner can hereafter grant access to the the workgoup needed.
+If you are a non-UCPH collaborator who needs access to one of the CCRP domains on ERDA, you must first obtain clearance from a workgroup owner listed below. This involves a sign-up procedure where the workgroup owner vouches for you by informing the central command (i.e., Knud Nor Nielsen) which workgroup you should have access to and for how long. Once the central command accepts the request sent through the ERDA sign-up procedure (outlined below), you will receive an automatic notification. The final steps are for you to sign in to ERDA to activate your account and for the workgroup owner to grant you access to the relevant directory.
 
-The steps needed to register on the ERDA hompage: 
-> 	1.	Contact one of the below listed CCRP workgroup owners, and agree on which
->           directories you should have access to. 
->   2.  Go to: http://erda.ku.dk/
-> 	3.	click on the tab 'External Users'
-> 	4.	Click 'sign up' under "Sign up to ERDA without a KU / UCPH account?"
-> 	5. 	Fill out and submit the form. In the field `Optional comment`, please refer to your contact
-        who is employed at the University of Copenhagen (name + email), e.g: 'Knud Nor Nielsen: knn@plen.ku.dk` and note the CCRP project that you are hired on, the name of your PI, and
-        the name of the workgroup owner that will be responsible for granting access to directories.
->   6.  The workgroup owner, now drops as email to knn@plen.ku.dk confirming that this new user
-        needs access to ERDA.
-    7.  The contacted UCPH emploie (Knud), accepts the request of access to ERDA. This generates an
-        automatic response to the new user.
-    8.  Now, the new user needs to sign into ERDA to activate the ERDA account.
-> 	5.	Finally, the workgroup owner can now grant access to the CCRP directory relevant.  
+Steps to Register on the ERDA Homepage:
+
+>   1.  Contact one of the CCRP workgroup owners listed below and agree on which directories
+>       you require access to.
+>   2.  Go to http://erda.ku.dk/
+>   3.  Click on the 'External Users' tab.
+>   4.  Click 'Sign up' under "Sign up to ERDA without a KU / UCPH account?"
+>   5.  Fill out and submit the form. In the "Optional comment" field, please provide the name
+        and email of your UCPH contact (e.g., "Knud Nor Nielsen: knn@plen.ku.dk") and the following information: the CCRP project you are working on, the name of your PI, and the name of the workgroup owner responsible for granting access to directories.
+    6.  The workgroup owner should then send an email to knn@plen.ku.dk confirming that you should
+        have require access to ERDA.
+>   7.  Knud Nor Nielsen will accept your request for access to ERDA and send you an automatic
+>       response.
+>   8.  Sign in to ERDA to activate your account.
+>   9.  The workgroup owner can now grant you access to the relevant CCRP directory.
+
 
 <p>&nbsp;</p>
 
