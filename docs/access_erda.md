@@ -33,10 +33,6 @@ Steps to Register on the ERDA Homepage:
 ## Administrating Workgroup Owners 
 
 ### MATRIX
-Knud Nor Nielsen:       
-University of Copenhagen            
-knn@plen.ku.dk
-
 Jesper Cairo Westergaard    
 University of Copenhagen            
 jcw@plen.ku.dk
